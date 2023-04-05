@@ -1,0 +1,1 @@
+export { default as bookSelector } from './book'
